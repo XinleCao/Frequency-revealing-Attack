@@ -13,7 +13,7 @@ Unfortunately, there are still vulnerabilities in all existing FH-OPE schemes. I
 Our findings highlight the limitations of current FH-OPE schemes. We demonstrate that achieving frequency-hiding requires addressing the leakages of both non-uniform ciphertext distribution and insertion orders of ciphertexts, even though the leakage of insertion orders is often ignored in OPE.
 
 ## Note
-I am pretty sure that the codes in this repository are sufficient for reproduce our results in the paper. The names of folders and files are clear and easy to understand.
+I am pretty sure that the codes in this repository are sufficient for reproducing our results in the paper. The names of folders and files are clear and easy to understand.
 
 The results may be a little different as the encryption algorithms are randomized. We do not save the random seeds in our experiments. However, we are sure that the results will follow our claims in the paper even if the random seeds are picked differently, which should be guaranteed by a published paper.
 
