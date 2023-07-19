@@ -17,7 +17,7 @@ I am pretty sure that the codes in this repository are sufficient for reproducin
 
 The results may be a little different as the encryption algorithms are randomized. We do not save the random seeds in our experiments. However, we are sure that the results will follow our claims in the paper even if the random seeds are picked differently, which should be guaranteed by a published paper.
 
-Besides, if you have any problem, please contact me or present an issue. I am willing to give help on any problem about this paper. Also, I am open to any problem about OPE and other techniques in Encrypted databases including Oblivious RAM (ORAM). I will give an answer as much as possible.
+Besides, if you have any problem, please contact me or present an issue. I am willing to give help on any problem about this paper. Also, I am open to any problem about OPE and other techniques in Encrypted databases like Oblivious RAM (ORAM). I will give an answer as much as possible.
 
 Here are my gmail and homepage.
 
